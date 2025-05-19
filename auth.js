@@ -27,3 +27,7 @@ window.cadastro = async function () {
     alert('Cadastro realizado! Faça login.')
   }
 }
+
+document.addEventListener('keydown'), function (event) {
+  if (event.key)
+}
