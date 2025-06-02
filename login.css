@@ -39,7 +39,7 @@ body{
 
 
 /* --------container--------*/
-.container {
+.conteiner {
     background: var(--cor-bg);
     padding: clamp(2rem, 5vw, 3rem);
     border-radius: var(--raio);
